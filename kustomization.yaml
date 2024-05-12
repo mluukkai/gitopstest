@@ -1,4 +1,2 @@
 resources:
-- ./overlays/staging
-- ./overlays/prod
-namePrefix: myapp-
+- ./apps/myapp-stag

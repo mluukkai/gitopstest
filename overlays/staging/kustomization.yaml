@@ -4,4 +4,4 @@ namePrefix: stag-
 
 images:
   - name: PROJECT/IMAGE
-    newName: alpinex
+    newName: nginx:1.25.5-alpine
