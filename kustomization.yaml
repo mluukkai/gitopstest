@@ -1,0 +1,4 @@
+resources:
+- ./overlays/staging
+- ./overlays/prod
+namePrefix: myapp-

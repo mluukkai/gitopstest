@@ -1,0 +1,10 @@
+resources:
+- ./../../base
+patches:
+  - path: deployment.yaml
+
+namePrefix: prod-
+
+images:
+  - name: PROJECT/IMAGE
+    newName: ubuntu

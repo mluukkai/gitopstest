@@ -1,0 +1,7 @@
+resources:
+- ./../../base
+namePrefix: stag-
+
+images:
+  - name: PROJECT/IMAGE
+    newName: alpinex
