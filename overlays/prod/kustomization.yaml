@@ -7,4 +7,4 @@ namePrefix: prod-
 
 images:
   - name: PROJECT/IMAGE
-    newName: ubuntu
+    newName: nginx:1.25-bookworm
